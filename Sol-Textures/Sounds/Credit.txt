@@ -1,0 +1,13 @@
+Sound of this mod is downloaded from "https://www.zapsplat.com".
+
+Original file name of Internal_Gentle_Wind.wav is:
+zapsplat_nature_wind_cold_howling_outside_cave_85971.mp3
+(follows Standard License of zapsplat.com)
+
+Original file name of Internal_Medium_Wind.wav is:
+zapsplat_nature_wind_strong_stormy_inside_or_cave_pov_98003.mp3
+(follows Standard License of zapsplat.com)
+
+Original file name of Internal_Strong_Wind.wav is:
+felix_blume_nature_wind_inside_derelict_factory_metal_panels_rattle_ghost_town.mp3
+(follows CC0 1.0 Universal License)
