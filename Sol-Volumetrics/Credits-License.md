@@ -4,11 +4,13 @@ A majority of this mod is Adapted From Sol and RSSVE
 
 For references, I've laid out all credits below:
 
-All configs developed by ballisticfox are under: CC-BY-NC-SA
+Sol-Volumetrics is listed under CC-BY-NC-SA
+All configs developed by ballisticfox(Sol) are under: CC-BY-NC-SA
 RealSolarSystem (RSS) is listed under: CC-BY-NC-SA
-RSS-Origin is listed under: CC-BY-NC-SA and used with expressed permission from Charon_S
+RSS-Origin is listed under: CC-BY-NC-SA
 EVO is listed under CC BY-NC-SA
 PRVE is listed under CC-BY-NC-SA
+RSSVE is listed under CC-BY-NC-SA
 
 Terms:
 Copy - Direct copy
@@ -21,68 +23,74 @@ Sol-Configs/
 
         02_Venus/
             Venus-Clouds.cfg
-                - Derivative of Blackrack's EVE configs
-            Venus-Kopernicus.cfg
-                - Derivative of RSS's config with adjustments to orbital information and PQS
+                - Derivative of Blackrack's EVE configs, Copied from Sol
             Venus-ScattererAtmosphere
-                - Created by ballisticfox
+                - Copied from Sol
 
         03_Earth-System/
             03_Earth/
-                Earth-Clouds.cfg
-                    - Created by ballisticfox for RSS-Reborn
+                Earth-Aurora.cfg
+                    - Copied from Sol
+                Earth-CityLights.cfg
+                    - Copied from RSSVE
+                Earth-Climate.cfg
+                    - Copied from Sol
+				Earth-Clouds.cfg
+                    - Copied from Sol
+                Earth-Kopernicus.cfg
+                    - Derived from RSSVE_Kopernicus_Config.cfg and Sol's Earth-Kopernicus.cfg
                 Earth-ScattererAtmosphere.cfg
-                    - Created by ballisticfox
+                    - Copied from Sol
                 Earth-ScattererOcean.cfg
-                    - Created by ballisticfox
+                    - Copied from Sol, Adjusted for Sol-Volumetrics
 
         04_Mars-System/
             04_Mars/
                 Mars-Clouds.cfg
-                    - Derivative of blackrack's Duna configs
-                Mars-Kopernicus.cfg
-                    - Derivative of RSS's Mars configs
+                    - Copied from Sol
                 Mars-ScattererAtmosphere
-                    - Created by ballisticfox, Adjusted for Sol-Volumetrics
+                    - Copied from Sol, Adjusted for Sol-Volumetrics
 
         05_Jupiter-System/
             05_Jupiter/
                 Jupiter-Clouds.cfg
-                    - Created by ballisticfox, derived from Earth and Venus clouds
+                    - Copied from Sol
                 Jupiter-Kopernicus.cfg
-                    - Adjusted from RSS's Jupiter Configs
+                    - Derived from RSSVE_Kopernicus_Config.cfg and Sol's Jupiter-Kopernicus.cfg
                 Jupiter-Lightning.cfg
-                    - Adjusted from Jool's lightning configs
+                    - Adjusted from Jool's lightning configs, Copied from Sol
                 Jupiter-ScattererAtmosphere.cfg
-                    - Created by ballisticfox, Adjusted for Sol-Volumetrics using RSSVE as Reference
+                    - Copied from Sol, Adjusted for Sol-Volumetrics using RSSVE as Reference
 
         06_Saturn-System/
             06_Saturn/
 			    Saturn-Atmosphere.cfg
                     - Copied from RSSVE
 			    Saturn-Clouds.cfg
-                    - Copied from Sol
+                    - Copied from RSSVE
                 Saturn-Kopernicus.cfg
-                    - Derived from RSS-Origin's and RSS's configs, rings from Charon_S JSUN rings pack.
+                    - Derived from RSSVE_Kopernicus_Config.cfg and Sol's Saturn-Kopernicus.cfg
 
             06-06_Titan/
                 Titan-Atmosphere.cfg
-                    - Created by ballisticfox, Adjusted for Sol-Volumetrics
+                    - Copied from Sol, Adjusted for Sol-Volumetrics
                 Titan-Climate.cfg
-                    - Created by ballisticfox, Adjusted for Sol-Volumetrics
+                    - Copied from Sol, Adjusted for Sol-Volumetrics
                 Titan-Clouds.cfg
-                    - Created by ballisticfox
+                    - Copied from Sol
                 Titan-Droplets.cfg
-                    - Created by ballisticfox
+                    - Copied from Sol
                 Titan-Ocean.cfg
-                    - Created by ballisticfox
+                    - Copied from Sol
                 Titan-Rain.cfg
-                    - Created by ballisticfox
+                    - Copied from Sol
 
         07_Uranus-System/
             07_Uranus/
                 Uranus-Atmosphere.cfg
                     - Copied from RSSVE
+                Uranus-Kopernicus.cfg
+                    - Derived from RSSVE_Kopernicus_Config.cfg and Sol's Uranus-Kopernicus.cfg
 
         08_Neptune-System/
 			08_Neptune/
@@ -90,6 +98,8 @@ Sol-Configs/
                     - Copied from RSSVE
                 Neptune-Clouds.cfg
                     - Copied from RSSVE
+                Neptune-Kopernicus.cfg
+                    - Derived from RSSVE_Kopernicus_Config.cfg and Sol's Neptune-Kopernicus.cfg
  
 
            08-01_Triton/	
@@ -97,34 +107,54 @@ Sol-Configs/
                     - Copied from RSSVE
                 Triton-Clouds.cfg
                     - Copied from Sol, Adjusted for Sol-Volumetrics
+                Triton-Kopernicus.cfg
+                    - Copied from RSSVE_Kopernicus_Config.cfg
+					
+        09_Pluto-System/
+                Pluto-Atmosphere.cfg
+                    - Copied from RSSVE
+                Pluto-Kopernicus.cfg
+                    - Copied from RSSVE_Kopernicus_Config.cfg
+					
 
         00_Sol-Kopernicus.cfg
-            - Derived from RSS's Sun config with light curves made by ballisticfox
+            - Derived from RSSVE_Kopernicus_Config.cfg and Sol's 00_Sol-Kopernicus.cfg
         00_Sol-Sunflare
-            - Created by ballisticfox
+            - Copied from Sol
 			
     Skybox
         */
-        - Copied from RSS-Origin
+        - Copied from Sol 
         Skybox.cfg
-        - Adjusted from RSS-Origin
+        - Copied from Sol
 
-    Sol-EVETextures.cfg
-        - Created by ballisticfox, Adjusted for Sol-Volumetrics
+    DistantObject-Config.cfg
+	    - Copied from RSSVE
+	Sol-EVETextures.cfg
+        - Copied from Sol, Adjusted for Sol-Volumetrics
     Sol-ScattererSettings.cfg
-        - Created by ballisticfox, Adjusted for Sol-Volumetrics
-
+        - Copied from Sol, Adjusted for Sol-Volumetrics
+    Sol-Shadows.cfg
+        - Copied from Sol
+    Sol-WetSurfaces.cfg
+        - Copied from Sol
+		
 Sol-Textures/
    Scatterer/
 		Caustics.png
 			- Copied from RSS-Reborn
 		Caustics2.png
 			- Copied from RSS-Reborn
+
 	Skybox/
-	    * Copied from Sol	
+	    * 
+		- Copied from Sol	
+
    PluginData/
         _Misc/
             EVE/
+                DetailGasGiant.dds
+                    - Copied from RSSVE
                 DetailCirrus.dds
                     - Copied from RSSVE
                 DetailUVNoise.dds
@@ -134,7 +164,7 @@ Sol-Textures/
         00_Sol/
             Kopernicus/
                 SolSunspots.dds
-                    - Created by ballisticfox
+                    - Copied from Sol
             Scatterer/
                 *
                     - From Photoshop lens flare pack
@@ -149,70 +179,74 @@ Sol-Textures/
                 EarthAurora/
                     *.dds
                         - Copied from PRVE
+                EarthCities/
+                    EarthCities**.dds
+                        - Copied from RSSVE	
+					DetailCityDay.dds
+                        - Copied from RSSVE
+					DetailCityNight.dds
+                        - Derived from DetailCityDay.dds										
                 EarthCirrus/
                     *.dds
-                        - Created by ballisticfox for RSS-Reborn
+                        - Copied from Sol
                 EarthTemperate/
                     *.dds
-                        - Created by ballisticfox for RSS-Reborn
+                        - Copied from Sol
                 EarthTropical
                     *.dds
-                        - Created by ballisticfox for RSS-Reborn
+                        - Copied from Sol
 
         04_Mars/
             EVE/
-                Mars.png
-                    - Created by ballisticfox
-                Mars_Haze.png
-                    - Created by ballisticfox
-                MarsDust.png
-                    - Created by ballisticfox
-                MarsDust-2.png
-                    - Created by ballisticfox
-                MarsDust-3.png
-                    - Created by ballisticfox
+                *.png
+                    - Copied from Sol
 
         05_Jupiter/
             EVE/
                 Jupiter_Clouds.dds
                     - Copied/Rotated version of Jupiter_Color Colormap derived from https://www.planetary.org/articles/0514-juno-meets-cassini-a-new, custom poles and inverse flattening performed by Cylindrical Texture Tools by Askaniy
+            Kopernicus/
+			    *.png
+				    - Copied from Sol
 
         06_Saturn/
             EVE/
-                Saturn_Color.dds
+                SaturnClouds**.dds
+                    - Copied from RSSVE		
+				Saturn_Color.dds
                     - Copied from RSS-Origin
 
 			Kopernicus/
                 Saturn_E_G_Rings.png
                     - Copied from RSS-Origin
                 Saturn_RingsBackScattered.png
-                    - Created by Charon_S (presumably from PDS Rings node)
+                    - Created by Charon_S (presumably from PDS Rings node), Copied from Sol
                 Saturn_RingsUnlitSide.png
-                    - Created by Charon_S (presumably from PDS Rings node)
+                    - Created by Charon_S (presumably from PDS Rings node), Copied from Sol
                 Saturn_Transparent.png
-                    - Created by Charon_S
+                    - Created by Charon_S, Copied from Sol
 
 			06-06_Titan/
 				EVE/
 					Titan_Clouds.png
-						- Created by ballisticfox
+						- Created by ballisticfox, Copied from Sol
 					TitanPolarHood.png
-						- Created by ballisticfox
+						- Created by ballisticfox, Copied from Sol
 					TitanScattered.png
-						- Created by VaNnadin
+						- Created by VaNnadin, Copied from Sol
 					TitanTholins.png
-						- Created by ballisticfox
+						- Created by ballisticfox, Copied from Sol
 
         07_Uranus/
             Kopernicus/
                 Uranus_Rings_Inner_BackScattered.png
-                    - Derived from Charon_S's JSUN
+                    - Derived from Charon_S's JSUN, Copied from Sol
                 Uranus_Rings_Inner_UnlitSide.png
-                    - Derived from Charon_S's JSUN
+                    - Derived from Charon_S's JSUN, Copied from Sol
                 Uranus_Rings_Outer_BackScattered.png
-                    - Derived from Charon_S's JSUN
+                    - Derived from Charon_S's JSUN, Copied from Sol
                 Uranus_Rings_Outer_UnlitSide.png
-                    - Derived from Charon_S's JSUN
+                    - Derived from Charon_S's JSUN, Copied from Sol
 					
         08_Neptune/
 			EVE/
@@ -224,5 +258,5 @@ Sol-Textures/
 
 			08-01_Triton/
 				EVE/
-					*.dds
+					Triton_Cirrus.png
 						- Copied from RSSVE
