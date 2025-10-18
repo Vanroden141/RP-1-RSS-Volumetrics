@@ -14,7 +14,7 @@
    *RSSVE* (if present)  
    *PlanetShine* (Only if using __Defered Lighting__: Needed for puddles, screen-space reflections, and better lighting.)
 
-3. ***Install *Sol-Volumetrics* into GameData***
+3. ***Install *RSS-Volumetrics* into GameData***
 
 4. ***Download Release 5 of blackrack’s RaymarchedVolumetricClouds and install specifically the following:***  
    *EnvironmentalVisualEnhancements*  
