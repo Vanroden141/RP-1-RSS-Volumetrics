@@ -4,7 +4,7 @@
 ##### <p align="center">RSS-Volumetrics is an add-on for EVE, and Scatter intended for safe use alongside RP-1, Derived from [Sol](https://github.com/RSS-Reborn/Sol-Configs) and [RSSVE](https://github.com/KSP-RO/RSSVE).</p> 
 #
 # <p align="center"> Installation </p> 
-> RSS Volumetrics is intended for use with RP-1 however only [RealSolarSystem](https://github.com/KSP-RO/RealSolarSystem) and its requirements are needed. 
+> RSSVolumetrics is intended for use with RP-1/[RealSolarSystem](https://github.com/KSP-RO/RealSolarSystem) and its requirements. Clouds not Visible on main menu
 1. ***Follow the Install guide on the RP-1 [Wiki](https://github.com/KSP-RO/RP-1/wiki/RO-%26-RP-1-Express-Installation-for-1.12.5)***
 
 2. ***Delete folders from Gamedata:***  
