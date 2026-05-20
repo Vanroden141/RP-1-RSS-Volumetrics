@@ -1,15 +1,12 @@
 *.7z
 *.zip
 /GameData
+RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthTop/normals.dds
 RSS-Volumetrics/Sol-Textures/PluginData/00_Sol/Kopernicus/Sol_Sunspots.dds
 RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthCirrus/EarthCirrusColor.dds
 RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthCitylights/EarthCities.dds
-RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthTemperate/EarthTemperate.dds
-RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthTemperate/EarthTemperateColor.dds
-RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthTemperate/EarthTemperateNormal.dds
 RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthTropical/EarthTropical.dds
 RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthTropical/EarthTropicalColor.dds
-RSS-Volumetrics/Sol-Textures/PluginData/03_Earth-System/03_Earth/EVE/EarthTropical/EarthTropicalNormal.dds
 RSS-Volumetrics/Sol-Textures/PluginData/05_Jupiter-System/05_Jupiter/EVE/Jupiter_Clouds.dds
 Sol-VolumetricsR1.7z
 Sol-VolumetricsR1.zip
