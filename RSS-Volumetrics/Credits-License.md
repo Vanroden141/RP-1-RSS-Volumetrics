@@ -1,6 +1,6 @@
 ### RSS-Volumetrics Credits and Licensing
 
-A majority of this mod is Adapted From Sol
+A majority of this mod is Adapted From Sol, RSSVE, Sol-SPVE, and Thunderchilds Cloud configs
 
 For references, I've laid out all credits below:
 
@@ -11,6 +11,8 @@ RSS-Origin is listed under: CC-BY-NC-SA
 EVO is listed under CC BY-NC-SA
 PRVE is listed under CC-BY-NC-SA
 RSSVE is listed under CC-BY-NC-SA
+Sol-SPVE(and Original SPVE by TheSpacePotato) its is listed under CC BY-NC 4.0
+ThunderChild V5 configs is listed under ?
 
 Terms:
 Copy - Direct copy
@@ -21,79 +23,37 @@ Created - The work was not based on any previous work
 Sol-Configs/
     Configs/
 
-        01_Mercury/
-            Mercury-Kopernicus.cfg
-                - Derived from Sol
-            Mercury-ParallaxScatters.cfg
-                - Adjusted from Sol
-            Mercury-ParallaxTerrain.cfg
-                - Copied from Sol
-
         02_Venus/
             Venus-Clouds.cfg
                 - Copied from Sol
-            Venus-Kopernicus.cfg
-                - Derived from Sol
-            Venus-ParallaxScatters
-                - Adjusted from Sol
-            Venus-ParallaxTerrain
+            Venus-ScattererAtmosphere.cfg
                 - Copied from Sol
-            Venus-ScattererAtmosphere
-                - Copied from Sol
+            Venus-SPVE.cfg
+                - Copied from Sol-SPVE
 
         03_Earth-System/
             03_Earth/
-                Earth-Aurora.cfg
-                    - Copied from Sol
                 Earth-CityLights.cfg
-                    - Copied from RSSVE
-                Earth-Climate.cfg
-                    - Copied from Sol
-				Earth-Clouds.cfg
                     - Copied from Sol
                 Earth-Kopernicus.cfg
-                    - Derived from RSSVE_Kopernicus_Config.cfg and Sol's Earth-Kopernicus.cfg
+                    - Derived from RSSVE_Kopernicus_Config.cfg
                 Earth-ScattererAtmosphere.cfg
                     - Copied from Sol
                 Earth-ScattererOcean.cfg
-                    - Adjusted from Sol
-					
-            03-01_Luna/
-                Luna-Kopernicus.cfg
-                    - Derived from Sol
-                Luna-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Luna-ParallaxTerrain.cfg
-                    - Copied from Sol
+                    - Copied from RSSVE
+                Earth-SPVE-Aurora.cfg
+                    - Copied from Sol-SPVE
+                Earth-SPVE-Aurora.cfg
+                    - Copied from Sol-SPVE
+				Earth-ThunderChild-Clouds.cfg
+                    - Copied from ThunderChild V5 Configs
 
         04_Mars-System/
             04_Mars/
                 Mars-Clouds.cfg
-                    - Copied from Sol
-                Mars-Kopernicus.cfg
-                    - Derived from Sol
-                Mars-ParallaxScatters.cfg
                     - Adjusted from Sol
-                Mars-ParallaxTerrain.cfg
-                    - Copied from Sol
                 Mars-ScattererAtmosphere
-                    - Copied from Sol
-					
-            04-01_Phobos/
-                Phobos-Kopernicus.cfg
-                    - Derived from Sol
-                Phobos-ParallaxScatters.cfg
                     - Adjusted from Sol
-                Phobos-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-
-            04-02_Deimos/
-                Deimos-Kopernicus.cfg
-                    - Derived from Sol
-                Deimos-ParallaxTerrain.cfg
-                    - Copied from Sol
-
 
         05_Jupiter-System/
             05_Jupiter/
@@ -103,89 +63,29 @@ Sol-Configs/
                     - Derived from Sol
                 Jupiter-Lightning.cfg
                     - Copied from Sol
-                Jupiter-ParallaxTerrain.cfg
-                    - Copied from Sol
                 Jupiter-ScattererAtmosphere.cfg
                     - Copied from Sol
-					
-            05-01_Io/
-                Io-Kopernicus.cfg
-                    - Derived from Sol
-                Io-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Io-ParallaxTerrain.cfg
-                    - Copied from Sol
+                Jupiter-SPVE-Aurora.cfg
+                    - Copied from Sol-SPVE
 
             05-02_Europa/
-                Europa-Kopernicus.cfg
-                    - Derived from Sol
-                Europa-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Europa-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            05-03_Ganymede/
-                Ganymede-Kopernicus.cfg
-                    - Derived from Sol
-                Ganymede-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Ganymede-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            05-04_Callisto/
-                Callisto-Kopernicus.cfg
-                    - Derived from Sol
-                Callisto-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Callisto-ParallaxTerrain.cfg
-                    - Copied from Sol
+                Europa-SPVE-Geysers.cfg
+                    - Copied from Sol-SPVE
 
         06_Saturn-System/
             06_Saturn/
+                Saturn_Atmosphere.cfg
+                    - Copied from RSSVE
+                Saturn-Clouds.cfg
+                    - Copied from RSSVE
                 Saturn-Kopernicus.cfg
-                    - Derived from Sol
-                Saturn-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            06-01_Mimas/
-                Mimas-Kopernicus.cfg
-                    - Derived from Sol
-                Mimas-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Mimas-ParallaxTerrain.cfg
-                    - Copied from Sol
+                    - Copied from Sol and RSSVE
+                Saturn-SPVE-Aurora.cfg
+                    - Copied from Sol-SPVE
 
             06-02_Enceladus/
-                Enceladus-Kopernicus.cfg
-                    - Derived from Sol
-                Enceladus-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Enceladus-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            06-03_Tethys/
-                Tethys-Kopernicus.cfg
-                    - Derived from Sol
-                Tethys-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Tethys-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            06-04_Dione/
-                Dione-Kopernicus.cfg
-                    - Derived from Sol
-                Dione-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Dione-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            06-05_Rhea/
-                Rhea-Kopernicus.cfg
-                    - Derived from Sol
-                Rhea-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Rhea-ParallaxTerrain.cfg
-                    - Copied from Sol
+                Enceladus-SPVE-Geysers.cfg
+                    - Copied from Sol-SPVE
 
             06-06_Titan/
                 Titan-Atmosphere.cfg
@@ -198,142 +98,60 @@ Sol-Configs/
                     - Derived from Sol
                 Titan-Ocean.cfg
                     - Copied from Sol
-                Titan-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Titan-ParallaxTerrain.cfg
-                    - Copied from Sol
-					
-            06-08_Iapetus/
-                Iapetus-Kopernicus.cfg
-                    - Derived from Sol
-                Iapetus-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Iapetus-ParallaxTerrain.cfg
-                    - Copied from Sol
 
         07_Uranus-System/
             07_Uranus/
+                Uranus-Atmosphere.cfg
+                    - Copied from RSSVE
+                Uranus-Clouds.cfg
+                    - Copied from RSSVE
                 Uranus-Kopernicus.cfg
-                    - Derived from Sol
-                Uranus-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            07-01_Ariel/
-                Ariel-Kopernicus.cfg
-                    - Derived from Sol
-                Ariel-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Ariel-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            07-02_Umbriel/
-                Umbriel-Kopernicus.cfg
-                    - Derived from Sol
-                Umbriel-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Umbriel-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            07-03_Titania/
-                Titania-Kopernicus.cfg
-                    - Derived from Sol
-                Titania-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Titania-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            07-04_Oberon/
-                Oberon-Kopernicus.cfg
-                    - Derived from Sol
-                Oberon-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Oberon-ParallaxTerrain.cfg
-                    - Copied from Sol
-
-            07-05_Miranda/
-                Miranda-Kopernicus.cfg
-                    - Derived from Sol
-                Miranda-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Miranda-ParallaxTerrain.cfg
-                    - Copied from Sol
+                    - Copied from Sol and RSSVE
 
         08_Neptune-System/
 			08_Neptune/
+                Neptune-Atmosphere.cfg
+                    - Copied from RSSVE
+                Neptune-Clouds.cfg
+                    - Copied from RSSVE
                 Neptune-Kopernicus.cfg
-                    - Derived from Sol
-				Neptune-ParallaxTerrain.cfg	
-                    - Copied from Sol
+                    - Copied from Sol and RSSVE
 
-           08-01_Triton/	
+           08-01_Triton/
                 Triton-Atmosphere.cfg
                     - Copied from Sol
-                Triton-Kopernicus.cfg
-                    - Derived from Sol
-                Triton-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Triton-ParallaxTerrain.cfg
-                    - Copied from Sol
-					
-        09-01_Ceres-System/
-                Ceres-Kopernicus.cfg
-                    - Derived from Sol
-                Ceres-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Ceres-ParallaxTerrain.cfg
-                    - Copied from Sol
-					
-        09-02_Vesta-System/
-                Vesta-Kopernicus.cfg
-                    - Derived from Sol
-                Vesta-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Vesta-ParallaxTerrain.cfg
+                Triton-Clouds.cfg
                     - Copied from Sol
 
-        10_Pluto/
+        09_Pluto-System/
+			09_Pluto/
                 Pluto-Atmosphere.cfg
-                    - Copied from Sol
-                Pluto-Kopernicus.cfg
-                    - Derived from Sol
-                Pluto-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Pluto-ParallaxTerrain.cfg
-                    - Copied from Sol
-					
-        10_Charon/
-                Charon-Kopernicus.cfg
-                    - Derived from Sol
-                Charon-ParallaxScatters.cfg
-                    - Adjusted from Sol
-                Charon-ParallaxTerrain.cfg
-                    - Copied from Sol
-					
+                    - Copied from RSSVE
 
         00_Sol-Kopernicus.cfg
             - Derived from Sol
         00_Sol-Sunflare
             - Copied from Sol
-			
-    Skybox
-        */
-        - Copied from Sol 
-        Skybox.cfg
-        - Copied from Sol
 
     DistantObject-Config.cfg
 	    - Copied from RSSVE
-	Sol-EVETextures.cfg
-        - Adjusted from Sol
-    Sol-ParallaxSettings.cfg
+	Sol-CommunityFixes.cfg
         - Copied from Sol
+	Sol-EVETextures.cfg
+        - Copied from Sol and RSSVE
     Sol-ScattererSettings.cfg
-        - Adjusted from Sol
+        - Copied from Sol and RSSVE
     Sol-Shadows.cfg
         - Copied from Sol
-    Sol-WetSurfaces.cfg
-        - Copied from Sol
-		
+    SPVE-Droplets.cfg
+        - Copied from Sol-SPVE
+    SPVE-Lightning.cfg
+        - Copied from Sol-SPVE
+    SPVE-ParticleFields.cfg
+        - Copied from Sol-SPVE
+    SPVE-WetSurfaces.cfg
+        - Copied from Sol-SPVE
+
 Sol-Textures/
    Scatterer/
 		Caustics.png
@@ -341,51 +159,89 @@ Sol-Textures/
 		Caustics2.png
 			- Copied from RSS-Reborn
 
-	Skybox/
-	    * 
-		- Copied from Sol	
-
    PluginData/
         _Misc/
+            EVE/
+                Atmosphere.dds
+                - Copied from RSSVE
+                DetailCirrus.dds
+                - Copied from RSSVE
+                DetailGasGiant.dds
+                - Copied from RSSVE
+                DetailUVNoise.dds
+                - Copied from Sol
+                DetailUVNoise2.dds
+                - Copied from RSSVE
+                Noise.dds
+                - Copied from Sol
+            Kopernicus/
+                Transparent.png
+                - Copied from Sol
+            SPVE/
+                *
+                - Copied from Sol
+
+
+        00_Sol/
             */
 				- Copied from Sol
 
-        01_Mercury/
-            */
-				- Copied from Sol
-				
         02_Venus/
             */
 				- Copied from Sol
 
         03_Earth/
             EVE/
-                EarthCities/
-                    EarthCities**.dds
-                        - Copied from RSSVE	
-					DetailCityDay.dds
-                        - Copied from RSSVE
-					DetailCityNight.dds
-                        - Derived from DetailCityDay.dds										
-					*/
-						- Copied from Sol
-						
-        03-01_Luna/
-            */
+                EarthAurora/
+				- Copied from Sol-SPVE
+                EarthBase/
+				- Copied from ThunderChild V5 Configs
+                EarthCirrus/
 				- Copied from Sol
+                EarthCitylights/
+				- Copied from Sol
+                EarthTop/
+				- Copied from ThunderChild V5 Configs
+                EarthTropical/
+				- Copied from Sol
+                EarthWeather/
+				- Copied from Sol-SPVE
+            SPVE/
+				- Copied from Sol-SPVE
 
         04_Mars/
-            */
+                Mars.png
 				- Copied from Sol
+                Mars_Dust.dds
+				- Copied from Sol-SPVE
+                Mars_DustDevil_Coverage.dds
+				- Copied from Sol-SPVE
+                Mars_DustDevil_Flow.png
+				- Copied from Sol-SPVE
+                Mars_Haze.dds
+				- Derived from Sol
+                MarsDust.png
+				- Copied from Sol
+                MarsDust-2.png
+				- Copied from Sol
+                MarsDust-3.png
+				- Copied from Sol
+                MarsStormCloudType.dds
+				- Derived from StockVolumetricClouds
+                MarsStormCoverage.dds
+				- Derived from StockVolumetricClouds
+                MarsStormSDF.sdf
+				- Generated with EVE
 
         05_Jupiter/
             */
 			    - Copied from Sol
 
         06_Saturn/
-            */
+            EVE/
+			    - Copied from RSSVE
+            Kopernicus/
 			    - Copied from Sol
-
 
 			06-06_Titan/
 				*/
@@ -394,30 +250,13 @@ Sol-Textures/
         07_Uranus/
 			*/
 				- Copied from Sol
-					
+
         08_Neptune/
-            */
-				- Copied from Sol
+            EVE/
+			    - Copied from RSSVE
+            Kopernicus/
+			    - Copied from Sol
 
 			08-01_Triton/
 				*/
 					- Copied from Sol
-					
-		09-01_Ceres/
-            */
-				- Copied from Sol
-				
-		09-04_Vesta/
-            */
-				- Copied from Sol	
-					
-        10_Pluto/
-            */
-				- Copied from Sol	
-				
-			10-1_Charon/
-				*/
-					- Copied from Sol	
-				
-				
-					
