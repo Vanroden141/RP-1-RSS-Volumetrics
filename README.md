@@ -3,6 +3,14 @@
 
 ##### <p align="center">RSS-Volumetrics is an add-on for Real Solar System (RSS)/RP-1, Derived from [Sol](https://github.com/RSS-Reborn/Sol-Configs), [Sol-SPVE](https://github.com/rbeap/Sol-SPVE), [RSSVE](https://github.com/KSP-RO/RSSVE), And ThunderChilds V5 Cloud Configs.</p> 
 #
+# <p align="center"> Features </p> 
+* Volumetric Clouds for Venus, Earth, Mars, Jupiter, and Titan
+* Volumetric Aurorae on Earth, Jupiter and Saturn
+* Geysers on Europa and Enceladus
+* Hurricanes, Supercells, Tornadoes and Rain Showers with WetSurfaces on Earth
+* Polar Haze, Global Dust Storms, Large Dust Storms, Cirrus clouds, Dust devils and Meteors on Mars
+* Visual Parity with RSSVE for planets without additional available configs
+#
 # <p align="center"> Installation </p> 
 > RSSVolumetrics is intended for use with RP-1/[RealSolarSystem](https://github.com/KSP-RO/RealSolarSystem) and its requirements. Clouds not Visible on main menu
 1. ***Follow the Install guide on the RP-1 [Wiki](https://github.com/KSP-RO/RP-1/wiki/RO-&-RP-1-Express-Installation-for-1.12.5)***
