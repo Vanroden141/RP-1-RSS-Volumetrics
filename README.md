@@ -5,7 +5,7 @@
 #
 # <p align="center"> Installation </p> 
 > RSSVolumetrics is intended for use with RP-1/[RealSolarSystem](https://github.com/KSP-RO/RealSolarSystem) and its requirements. Clouds not Visible on main menu
-1. ***Follow the Install guide on the RP-1 [Wiki](https://github.com/KSP-RO/RP-1-==/wiki/RO-%26-RP-1-Express-Installation-for-1.12.5)***
+1. ***Follow the Install guide on the RP-1 [Wiki](https://github.com/KSP-RO/RP-1/wiki/RO-&-RP-1-Express-Installation-for-1.12.5)***
 
 2. ***Delete folders from Gamedata:***  
    *EnvironmentalVisualEnhancements*  
