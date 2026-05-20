@@ -12,7 +12,7 @@
    *Scatterer*  
    *StockScattererConfigs*  
    *RSSVE* (if present)  
-   *PlanetShine* (Only if using __Defered__: Needed for puddles, screen-space reflections, and better lighting.)
+   *PlanetShine* (Only if using __Deferred__: Needed for puddles, screen-space reflections, and better lighting.)
 
 3. ***Install *RSS-Volumetrics* into GameData***
 
@@ -21,6 +21,6 @@
    *Scatterer*    
    *StockVolumetricClouds*    
 
-5. ***Optional/Recommended: Install Defered***
+5. ***Optional/Recommended: Install Deferred***
 
-6. ***Optional/Recommended: Install Tufx and Enable Blackracks profile(included with defered and V5 EVE)***
+6. ***Optional/Recommended: Install Tufx and Enable Blackracks profile(included with deferred and V5 EVE)***
